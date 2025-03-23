@@ -16,7 +16,6 @@ else
     -- ordinary Neovim
 	require('custom')
 	require("config.lazy")
-	require('undotree').setup()
 end
 --
 
