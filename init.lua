@@ -1,5 +1,7 @@
 
 --> PLUGINS ------------------------------------------------------ {{{
+vim.g.loaded_netrw       = 1
+vim.g.loaded_netrwPlugin = 1
 if vim.g.vscode then
     -- VSCode extension
 --	vim.opt.rnu = true
